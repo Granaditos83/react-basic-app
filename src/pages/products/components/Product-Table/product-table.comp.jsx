@@ -9,6 +9,7 @@ import ProductRowTres from '../product-row-tres/product-row-tres.comp';
 import ProductRowCuatro from '../product-row-cuatro/product-row-cuatro.comp';
 import ProductRowCinco from '../product-row-cinco/product-row-cinco.comp';
 import ProductRowSeis from '../product-row-seis/product-row-seis.comp';
+import ProductRowSiete from '../product-row-siete/product-row-siete.comp';
 
 
 
@@ -25,6 +26,7 @@ import ProductRowSeis from '../product-row-seis/product-row-seis.comp';
         <ProductRowCuatro/>
         <ProductRowCinco/>
         <ProductRowSeis/>
+        <ProductRowSiete/>
         
 
 
