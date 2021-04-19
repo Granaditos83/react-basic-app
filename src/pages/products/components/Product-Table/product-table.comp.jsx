@@ -28,13 +28,6 @@ import ProductRowSiete from '../product-row-siete/product-row-siete.comp';
         <ProductRowSeis/>
         <ProductRowSiete/>
         
-
-
-
-       
-     
-        
-
       </div>
      
       );

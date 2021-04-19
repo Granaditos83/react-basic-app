@@ -14,10 +14,9 @@
     margin-bottom: 10px;
 }
 
-.div span{
-    
-  
-   
-    text-decoration-style: rgb(17, 17, 17);
 
-}
+
+
+span.PriceNegroRowTres {
+    color: rgb(13, 13, 14);
+  }

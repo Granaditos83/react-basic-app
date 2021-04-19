@@ -7,7 +7,11 @@ import './product-row-tres.style.css';
       
 
       <div className= "product-row-tres-container"> 
-      Basketball <span> $ 29.99</span>
+      Basketball 
+
+
+      <span class="PriceNegroRowTres"> $ 29.99</span>
+      
      
 		  
         
