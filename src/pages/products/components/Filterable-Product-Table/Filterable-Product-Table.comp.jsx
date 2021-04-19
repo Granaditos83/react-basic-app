@@ -3,6 +3,9 @@ import ProductTable from '../Product-Table/product-table.comp';
 import SearchBar from '../search-bar/search-bar.comp';
 import './Filterable-Product-Table.style.css';
 
+
+
+
  const FilterableProductTable = () => {
     return (
       

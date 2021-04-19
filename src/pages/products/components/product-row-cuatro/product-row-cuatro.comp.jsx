@@ -6,7 +6,7 @@ import './product-row-cuatro.style.css';
     return (
       
 
-      <div className= "product-row-cuatro-container"> <span>electronics</span>
+      <div className= "product-row-cuatro-container"> <span>Electronics</span>
 
 
        
