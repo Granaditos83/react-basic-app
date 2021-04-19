@@ -6,7 +6,7 @@ import './products-category-row.style.css';
     return (
       
 
-      <div className= "products-category-row-container"> <span>Esporting goods</span>
+      <div className= "products-category-row-container"> <span>Esporting Goods</span>
 
 
        
