@@ -6,7 +6,7 @@ import './product-row-seis.style.css';
     return (
       
 
-      <div className= "product-row-seis-container"> <span>Iphone  $ 399.9</span>
+      <div className= "product-row-seis-container"> <span>Iphone  </span>$ 399.99
 
 
        
