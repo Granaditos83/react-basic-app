@@ -6,7 +6,7 @@ import './product-row-dos.style.css';
     return (
       
 
-      <div className= "product-row-dos-container"> <span>Baseball</span>
+      <div className= "product-row-dos-container"> <span>Baseball  $ 9.99</span>
 
 
        

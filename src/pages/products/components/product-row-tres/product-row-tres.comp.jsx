@@ -6,7 +6,7 @@ import './product-row-tres.style.css';
     return (
       
 
-      <div className= "product-row-tres-container"> <span>Basketball</span>
+      <div className= "product-row-tres-container"> <span>Basketball  $ 29.99</span>
 
 
        

@@ -6,7 +6,7 @@ import './product-row-siete.style.css';
     return (
       
 
-      <div className= "product-row-siete-container"> <span>Nexus 7</span>
+      <div className= "product-row-siete-container"> <span>Nexus 7  $ 199.99</span>
 
 
        

@@ -6,7 +6,7 @@ import './product-row-cinco.style.css';
     return (
       
 
-      <div className= "product-row-cinco-container"> <span>Ipad touch</span>
+      <div className= "product-row-cinco-container"> <span>Ipad touch $ 99.99</span>
 
 
        
