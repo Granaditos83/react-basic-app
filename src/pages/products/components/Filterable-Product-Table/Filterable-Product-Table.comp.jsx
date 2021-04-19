@@ -10,6 +10,7 @@ import './Filterable-Product-Table.style.css';
       <div className= "Filterable-Product-Table-container">
           <SearchBar/>
           <ProductTable/>
+          
         
 
       </div>

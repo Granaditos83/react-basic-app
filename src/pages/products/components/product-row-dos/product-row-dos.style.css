@@ -1,0 +1,13 @@
+.product-row-dos-container {
+    width: 95%;
+    margin: 0 auto;
+    min-height:40px;
+    border: 1px solid rgb(255, 8, 0);
+    padding: 10px;
+    margin-top: 10px;
+    text-align: left;
+}
+
+.search-input {
+    margin-bottom: 10px;
+}

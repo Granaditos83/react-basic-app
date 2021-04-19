@@ -1,0 +1,12 @@
+.products-category-row-container{
+
+    width: 95%;
+    margin: 0 auto;
+    min-height:40px;
+    border: 1px solid rgb(8, 232, 240);
+    padding: 10px;
+    margin-top: 10px;
+    text-align: left;
+    
+
+}
