@@ -2,10 +2,22 @@
     width: 95%;
     margin: 0 auto;
     min-height:490px;
-    border: 2px solid rgb(104, 247, 10);
+    border: 2px solid rgb(101, 250, 2);
     margin-top: 10px;
     border-radius: 10px;
    
 
 
 }
+.price {
+  
+    text-align: right;
+    color: rgb(19, 18, 19);
+    
+    
+  }
+
+.name {
+    text-align: left;
+    color: rgb(10, 10, 10);
+  }

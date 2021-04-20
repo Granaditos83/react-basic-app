@@ -18,7 +18,13 @@ import ProductRowSiete from '../product-row-siete/product-row-siete.comp';
       
 
       <div className= "product-table-container">
-        Name                       Price
+       
+       
+        <span class="name">Name</span>
+        <span class="price">Price</span>
+        
+
+
         <ProductsCategoryRow/>
         <ProductRow/>
         <ProductRowDos/>
