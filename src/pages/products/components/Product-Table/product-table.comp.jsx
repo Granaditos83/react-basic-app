@@ -23,6 +23,7 @@ import ProductRowSiete from '../product-row-siete/product-row-siete.comp';
         <span class="name">Name</span>
         <span class="price">Price</span>
         
+        
 
 
         <ProductsCategoryRow/>
